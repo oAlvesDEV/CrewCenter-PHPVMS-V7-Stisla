@@ -1,4 +1,5 @@
 StislaSkin (phpVMS 7)
+
 StislaSkin finally converted to phpVMS 7! Developed by Rui Alves. StislaSkin was developed using the "Stisla Admin Template" admin panel!
 
 Warning
