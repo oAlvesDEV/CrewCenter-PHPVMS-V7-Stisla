@@ -53,11 +53,11 @@
         <footer class="main-footer">
             <div class="footer-left">
                 Copyright &copy; {{ date('Y') }} <div class="bullet"></div>
-                Design By <a href="https://flyazoresvirtual.com/users/1">Rui Alves</a>
+                Design By: Muhamad Nauval Azhar</a>
             </div>
             <div class="footer-right">
                 CrewCenter by <a href="https://flyazoresvirtual.com/users/1">Rui Alves</a> |
-                Powered by <a href="http://www.phpvms.net" target="_blank">phpVMS</a>
+                Powered by <a href="http://www.phpvms.net" target="_blank">phpVMS</a> & <a href="https://github.com/FatihKoz" target="_blank">DH Addons</a>
             </div>
         </footer>
     </div>
