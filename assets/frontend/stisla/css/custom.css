@@ -1,0 +1,23 @@
+/**
+ *
+ * You can write your CSS code here, DO NOT touch the default JavaScript file
+ * because it will make it harder for you to update.
+ * 
+ */
+
+/*# sourceMappingURL=custom.css.map */
+.map-info-box {
+    display: none;
+    position: absolute;
+    bottom: 0;
+    padding: 20px;
+    height: 100px;
+    z-index: 9999;
+    background-color: rgba(232, 232, 232, 0.9);
+}
+
+.map-info-label {
+    display:block;
+    padding: 5px;
+    background-color: rgba(232, 232, 232, 0.9);
+}
